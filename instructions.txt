@@ -1,0 +1,3 @@
+open in terminal
+use arrow keys up and down to change mode
+ENTER to use selected mode
